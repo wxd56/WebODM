@@ -77,6 +77,7 @@ module.exports = {
     //  on the global let jQuery
     "jquery": "jQuery",
     "SystemJS": "SystemJS",
-    "React": "React"
+    "React": "React",
+    "gettext": "gettext"
   }
 }
