@@ -1,3 +1,6 @@
 [[paths]]
     l10n = "locale/{locale}/LC_MESSAGES/**" 
-    reference = "locale/en/LC_MESSAGES/**"
+    reference = [
+	"locale/django.pot",
+	"locale/djangojs.pot",
+    ]
